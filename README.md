@@ -1,2 +1,2 @@
 # calories-burnt-predictor
-Predicting the amount of calories burnt.
+Predicting the amount of calories burnt using XGBoost Regressor.
